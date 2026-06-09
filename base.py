@@ -18,3 +18,5 @@ robot = DriveBase(lewy, prawy, wheel_diameter=49.5, axle_track=115)
 # Stałe geometryczne koła wykorzystywane w algorytmach odometrii
 srednica_kola = 49.5
 obwod_kola = 3.14 * srednica_kola
+
+print('edycja')
